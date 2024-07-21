@@ -1892,6 +1892,9 @@ a {
   .container-6 .review .post {
     min-width: 280px;
   }
+  .container-6 .review .post img {
+    height: 190px;
+  }
 
   .wave-footer {
     transform: translatey(0px);
